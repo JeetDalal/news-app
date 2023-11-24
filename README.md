@@ -11,12 +11,14 @@ I have created the application according the rules provided by you.
 
 #Explanation
 
+
 1. The first screen is the home screen where you will see a bookmark icon which takes you to bookmark screen then there is a search bar from which you can filter and search from everythin API. You can filter with sort-by from date and to-date.
 2. Next there is view more button in row with top headlines title on clicking that button you will go to top headlines API filtering and searching screen.
 3. On each story there is bookmark on clicking bookmark you can add/remove bookmark.
 4. __IMPORTANT__There is add service button along with the service name(only for those services which have an id). You can add your favorite service. If you click on service name you will be taken to headline api search and filter screen where the relevant filters will be automatically applied.
 5. If you click on any post you can se more details and a read more which will take you to the actual article.
 6. In the headline api screen we have filter and search. You can filter according to country and category.
+7. Please make a note that I have used a default image for those stories which do not have a background image.
 
 #IMPLEMNTATION
 Implementation
