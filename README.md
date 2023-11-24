@@ -1,2 +1,10 @@
-Implementation
-![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 18.45.04.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 16.50.59-1.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 16.51.10-1.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 16.51.18-1.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 16.51.52-1.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 16.52.23-1.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 16.52.30-1.png>) ![Alt text](<Simulator Screenshot - iPhone 15 Pro Max - 2023-11-24 at 18.36.43.png>)
+# Newa Api Implementation with Flutter
+
+I have created the application according the rules provided by you.
+
+1. I have stored apikey in environment variables and not hardcoded it using __dotenv__.
+2. I have implemented search and filtering for both everything api and top-headlines api
+3. I have added bookmark section where users can store their favourite story in bookmark section. I have used __sharedPreferences__ for storage purposes.
+4. I have implemented the __webview__ so that users can open the actual article inside the app itself.
+5. I have used __provider state management__.
+6. **Error handling** is done swiftly and in user-friendly way
